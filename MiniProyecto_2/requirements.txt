@@ -1,0 +1,5 @@
+gluoncv==0.10.5.post0
+mxnet==1.9.1
+matplotlib
+requests
+numpy==1.25.0
